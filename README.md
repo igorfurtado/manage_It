@@ -8,18 +8,19 @@ Esse é um projeto clone, desenvolvido durante o curso de Front-end Design Essen
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Purple | ![#3B427A](https://via.placeholder.com/10/0a192f?text=+) #3B427A |
-| Orange | ![#FB8500](https://via.placeholder.com/10/f8f8f8?text=+) #FB8500 |
-| Dark Gray | ![#1C1C1C](https://via.placeholder.com/10/00b48a?text=+) #1C1C1C |
-| Green| ![#02D590](https://via.placeholder.com/10/00b48a?text=+) #02D590 |
+| Purple | ![#3B427A](https://via.placeholder.com/10/3B427A?text=+) #3B427A |
+| Orange | ![#FB8500](https://via.placeholder.com/10/FB8500?text=+) #FB8500 |
+| Dark Gray | ![#1C1C1C](https://via.placeholder.com/10/1C1C1C?text=+) #1C1C1C |
+| Green| ![#02D590](https://via.placeholder.com/10/02D590?text=+) #02D590 |
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![mockup_manage_it](https://user-images.githubusercontent.com/70289587/137595996-53a1945c-4d53-46d5-a9e5-167419b955f3.png)
 
   
 ## Tech Stack
+
 
 **Client:** HTML, CSS & Javascript.
 
